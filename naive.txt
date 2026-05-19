@@ -1,0 +1,9 @@
+# profile-title: TorvusNaive
+# profile-update-interval: 12
+
+#Yandex
+naive+https://MyrY10ylyipSTfPm:LBzZDdtbb5M6ZFVe@ya.l4379.ru:8443#Yandex Naive
+
+#Nuxt
+naive+https://eBgV0TJOHNl7Xhmq:dVWTWcsxPkH2MGtg@nuxt.l4379.ru#Nuxt Naive
+
